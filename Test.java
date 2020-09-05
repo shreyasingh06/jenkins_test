@@ -1,6 +1,6 @@
 # jenkins_test
 
-public class jenkins_test
+public class Test
 {
   public static void main(String args[])
   {
